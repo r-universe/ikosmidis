@@ -1,0 +1,22 @@
+[
+  {
+    "package": "brglm",
+    "oncran": true
+  },
+  {
+    "package": "brglm2",
+    "oncran": true
+  },
+  {
+    "package": "detectseparation",
+    "oncran": true
+  },
+  {
+    "package": "enrichwith",
+    "oncran": true
+  },
+  {
+    "package": "profileModel",
+    "oncran": true
+  }
+]
