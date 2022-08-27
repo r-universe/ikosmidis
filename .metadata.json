@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "cranly",
+    "oncran": true
+  },
+  {
     "package": "detectseparation",
     "oncran": true
   },

@@ -13,6 +13,11 @@
 	url = https://github.com/ikosmidis/brglm2
 	shallow = true
 	registered = true
+[submodule "cranly"]
+	path = cranly
+	url = https://github.com/ikosmidis/cranly
+	shallow = true
+	registered = true
 [submodule "detectseparation"]
 	path = detectseparation
 	url = https://github.com/ikosmidis/detectseparation
