@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "detectseparation",
+    "oncran": true
+  },
+  {
     "package": "enrichwith",
     "oncran": true
   },
