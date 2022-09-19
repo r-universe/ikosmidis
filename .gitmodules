@@ -18,11 +18,6 @@
 	url = https://github.com/ikosmidis/cranly
 	shallow = true
 	registered = true
-[submodule "detectseparation"]
-	path = detectseparation
-	url = https://github.com/ikosmidis/detectseparation
-	shallow = true
-	registered = true
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/ikosmidis/enrichwith
