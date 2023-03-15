@@ -1,10 +1,14 @@
 [
   {
-    "package": "brglm",
+    "package": "brglm2",
     "oncran": true
   },
   {
-    "package": "brglm2",
+    "package": "profileModel",
+    "oncran": true
+  },
+  {
+    "package": "brglm",
     "oncran": true
   },
   {
@@ -17,10 +21,6 @@
   },
   {
     "package": "enrichwith",
-    "oncran": true
-  },
-  {
-    "package": "profileModel",
     "oncran": true
   }
 ]
