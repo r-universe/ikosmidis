@@ -33,3 +33,8 @@
 	url = https://github.com/ikosmidis/profilemodel
 	shallow = true
 	registered = true
+[submodule "semnar"]
+	path = semnar
+	url = https://github.com/ikosmidis/semnar
+	shallow = true
+	registered = true

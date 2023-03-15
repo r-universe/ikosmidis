@@ -22,5 +22,9 @@
   {
     "package": "profileModel",
     "oncran": true
+  },
+  {
+    "package": "semnar",
+    "oncran": true
   }
 ]
