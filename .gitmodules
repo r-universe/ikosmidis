@@ -3,19 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "brglm2"]
-	path = brglm2
-	url = https://github.com/ikosmidis/brglm2
-	shallow = true
-	registered = true
-[submodule "profileModel"]
-	path = profileModel
-	url = https://github.com/ikosmidis/profilemodel
-	shallow = true
-	registered = true
 [submodule "brglm"]
 	path = brglm
 	url = https://github.com/ikosmidis/brglm
+	shallow = true
+	registered = true
+[submodule "brglm2"]
+	path = brglm2
+	url = https://github.com/ikosmidis/brglm2
 	shallow = true
 	registered = true
 [submodule "cranly"]
@@ -31,5 +26,10 @@
 [submodule "enrichwith"]
 	path = enrichwith
 	url = https://github.com/ikosmidis/enrichwith
+	shallow = true
+	registered = true
+[submodule "profileModel"]
+	path = profileModel
+	url = https://github.com/ikosmidis/profilemodel
 	shallow = true
 	registered = true
